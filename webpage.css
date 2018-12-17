@@ -1,0 +1,154 @@
+.header
+{
+    position: absolute;
+    height: 185px;
+    width: 1880px;
+    background-color: black;
+        
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green transparent;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color:   #ecbb70;
+    text-align: center;
+    padding: 16px 18px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+.nav li a:hover {
+    background-color: white;
+}
+.nav
+{
+ position: absolute;   
+    height: 35px;
+    width: 1580px;
+     margin-left: 500px;
+    margin-top: 65px;
+    
+}
+
+.logo
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 40px;
+    
+}
+.img
+{
+    position: absolute;
+}
+.img
+{
+    position: absolute;
+    height: 500px;
+    width: 1880px;
+    background-color: aqua;
+    margin-top: 185px;
+}
+.container
+{
+    position: absolute;
+    height: 1300px;
+    width: 1880px;
+    background-color: white;
+    margin-top: 990px;
+}
+.container h1
+{
+    font-size: 80px;
+    font-family: sans-serif;
+    margin-left: 200px;
+    margin-top:70px;
+    color: black;
+}
+.footer {
+    position: absolute;
+    height: 185px;
+    width: 1880px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 2200px;
+}
+.footer p  {
+                font-size:25px;
+            }
+.con
+{
+    position: absolute;
+    height: 1300px;
+    width: 1880px;
+    background-color: white;
+    margin-top: 250px;
+}
+.con p
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.con h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.footer1 {
+    position: absolute;
+    height: 185px;
+    width: 1880px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1200px;
+}
+.footer1 p  {
+                font-size:25px;
+            }
+.footer2 {
+    position: absolute;
+    height: 185px;
+    width: 1880px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1000px;
+}
+.footer2 p  {
+                font-size:25px;
+            }
+.conc
+{
+    position: absolute;
+    height: 1300px;
+    width: 1880px;
+    background-color: white;
+    margin-top: 250px;
+}
+.conc p
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.conc h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.conc img {
+    margin-left: 200px;
+}
